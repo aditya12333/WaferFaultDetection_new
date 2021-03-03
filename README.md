@@ -8,4 +8,4 @@
 
  The data set contains the 590 columns of different sensor value for each columns. The last columns values represents the good and values of each wafer.
  +1 represents the bad wafer. 
- -1 represents the good wafer.
+  -1 represents the good wafer.
