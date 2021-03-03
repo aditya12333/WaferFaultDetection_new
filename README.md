@@ -4,7 +4,7 @@
 
 **To build a classification methodology to predict the quality of wafer sensors based on the given training data.**
 
-## DataSet
+## Data Description
 
  The data set contains the 590 columns of different sensor value for each columns. The last columns values represents the good and values of each wafer.
 
